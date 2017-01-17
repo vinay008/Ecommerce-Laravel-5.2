@@ -1,0 +1,12 @@
+.tddata
+ {
+  border: 0 none;
+  color:blue;
+  background-color:white;
+}
+
+.tddata:focus, .tddata:active:focus, .tddata.active:focus,.tddata:hover 
+{	
+  outline: 0 none;
+  color:blue;
+}

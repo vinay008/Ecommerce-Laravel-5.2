@@ -1,0 +1,31 @@
+
+h1,h2,h3,h4,h5,h6,div,td,thead
+{
+	color:black;
+}
+
+.btn-responsive 
+{
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#FooterHidden
+{
+    display: none;
+}
+
+.navbar
+{
+	border-radius:0px; 
+	background-color:  #E6E6FA; 
+	border-style:none;
+}
+
+#head
+{
+  font-size: 43px;	
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
